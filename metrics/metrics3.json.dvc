@@ -1,0 +1,4 @@
+outs:
+- md5: 2f059399abc992a2bd4b8eeb6e9e9694
+  size: 864
+  path: metrics3.json
